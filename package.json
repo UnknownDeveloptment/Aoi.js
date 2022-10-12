@@ -1,0 +1,19 @@
+{
+  "name": "Aoi.js V4 Müzik Altyapı",
+  "version": "1.0.0",
+  "description": "Hamza'nın Aoi.js V4 Müzik Altyapısı.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": "16.x"
+  },
+  "author": "HamzaWasNotFound.html#9665",
+  "license": "MIT",
+"repositories":"https://github.com/UnknownDeveloptment/Aoi.js-V4-Muzik-Altyapi",
+  "dependencies": {
+    "aoi.js": "^4.5.0",
+    "opusscript": "^0.0.8"
+  }
+}
